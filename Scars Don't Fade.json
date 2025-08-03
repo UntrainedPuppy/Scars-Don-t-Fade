@@ -1,6 +1,6 @@
 {
-	"Name": "Scars NEW V25",
-	"Version": 1754238127,
+	"Name": "Scars NEW V26",
+	"Version": 1754240295,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "1.Use of Chests Is Not Allowed\n2.Use of Anti-Camp Is Not Allowed\n3.Body-blocking Is Allowed As Long As It Is Not A Narrow Corridor Or Doorway (They Cannot Be Corner Trapped Etc) If This Occurs The Killer Can Only Hold The Survivor For A Maximum Of 10 Seconds",
 	"Tiers": [
@@ -804,7 +804,15 @@
 			"IndividualAddonBans": [
 				38,
 				39,
-				37
+				37,
+				34,
+				35,
+				36,
+				23,
+				21,
+				28,
+				33,
+				27
 			],
 			"ItemWhitelist": [
 				0,
@@ -1662,7 +1670,11 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
 				138,
-				139
+				139,
+				121,
+				125,
+				132,
+				134
 			],
 			"ItemWhitelist": [
 				0,
@@ -2295,7 +2307,13 @@
 				217,
 				216,
 				214,
-				213
+				213,
+				218,
+				208,
+				209,
+				204,
+				207,
+				201
 			],
 			"ItemWhitelist": [
 				0,
@@ -2725,7 +2743,14 @@
 			"IndividualAddonBans": [
 				278,
 				271,
-				273
+				273,
+				277,
+				274,
+				270,
+				268,
+				266,
+				264,
+				259
 			],
 			"ItemWhitelist": [
 				0,
@@ -3051,7 +3076,18 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				318
+				318,
+				317,
+				304,
+				307,
+				306,
+				305,
+				303,
+				308,
+				316,
+				315,
+				314,
+				313
 			],
 			"ItemWhitelist": [
 				0,
@@ -3972,7 +4008,11 @@
 			"IndividualAddonBans": [
 				498,
 				497,
-				495
+				495,
+				482,
+				489,
+				496,
+				493
 			],
 			"ItemWhitelist": [
 				0,
@@ -4309,7 +4349,13 @@
 				536,
 				535,
 				534,
-				531
+				531,
+				525,
+				523,
+				530,
+				529,
+				528,
+				533
 			],
 			"ItemWhitelist": [
 				0,
@@ -4540,7 +4586,11 @@
 				557,
 				554,
 				555,
-				556
+				556,
+				541,
+				549,
+				548,
+				553
 			],
 			"ItemWhitelist": [
 				0,
