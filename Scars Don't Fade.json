@@ -1,29 +1,23 @@
 {
-	"Name": "Scars NEW V26",
-	"Version": 1754240295,
+	"Name": "Scars Don't Fade NB Shared Balance TIERS 3",
+	"Version": 1754529625,
 	"MaxPerkRepetition": 1,
-	"GlobalNotes": "1.Use of Chests Is Not Allowed\n2.Use of Anti-Camp Is Not Allowed\n3.Body-blocking Is Allowed As Long As It Is Not A Narrow Corridor Or Doorway (They Cannot Be Corner Trapped Etc) If This Occurs The Killer Can Only Hold The Survivor For A Maximum Of 10 Seconds",
+	"GlobalNotes": "",
 	"Tiers": [
 		{
 			"Name": "General",
 			"SurvivorIndvPerkBans": [
 				"0",
-				"2",
 				"3",
 				"285",
 				"5",
 				"6",
 				"52",
 				"7",
-				"8",
 				"258",
-				"104",
-				"10",
 				"11",
 				"12",
 				"13",
-				"14",
-				"15",
 				"16",
 				"17",
 				"18",
@@ -31,32 +25,20 @@
 				"19",
 				"20",
 				"22",
-				"23",
 				"24",
 				"25",
-				"26",
 				"60",
-				"246",
 				"27",
 				"28",
 				"286",
 				"288",
-				"29",
 				"33",
-				"34",
 				"248",
-				"35",
-				"37",
-				"38",
-				"39",
 				"40",
 				"41",
-				"42",
 				"279",
 				"43",
 				"280",
-				"44",
-				"45",
 				"268",
 				"267",
 				"46",
@@ -64,32 +46,20 @@
 				"49",
 				"51",
 				"262",
-				"53",
 				"54",
 				"55",
 				"56",
 				"274",
 				"252",
-				"58",
 				"59",
-				"289",
-				"61",
 				"62",
-				"63",
-				"64",
 				"66",
 				"67",
-				"68",
-				"69",
-				"259",
 				"269",
 				"73",
 				"74",
-				"76",
 				"77",
-				"78",
 				"79",
-				"80",
 				"81",
 				"82",
 				"83",
@@ -100,19 +70,13 @@
 				"281",
 				"89",
 				"90",
-				"91",
-				"95",
 				"98",
 				"99",
 				"100",
 				"102",
-				"103",
 				"275",
 				"105",
-				"106",
 				"108",
-				"109",
-				"110",
 				"263",
 				"111",
 				"113",
@@ -123,13 +87,10 @@
 				"116",
 				"290",
 				"287",
-				"117",
-				"119",
 				"120",
 				"122",
 				"124",
 				"126",
-				"127",
 				"254",
 				"130"
 			],
@@ -141,94 +102,50 @@
 				"136",
 				"245",
 				"137",
-				"138",
-				"139",
-				"140",
-				"141",
 				"147",
-				"255",
 				"149",
 				"150",
-				"153",
-				"154",
 				"155",
-				"156",
-				"157",
-				"159",
-				"160",
-				"163",
-				"164",
-				"165",
 				"244",
 				"167",
 				"168",
-				"169",
-				"170",
+				"282",
 				"283",
 				"171",
 				"174",
 				"179",
 				"175",
-				"176",
-				"177",
 				"277",
 				"178",
 				"180",
-				"182",
-				"183",
 				"243",
+				"264",
 				"185",
 				"186",
 				"265",
-				"187",
 				"188",
-				"190",
 				"191",
-				"192",
-				"194",
 				"256",
 				"195",
-				"196",
-				"197",
 				"198",
-				"199",
-				"161",
-				"202",
 				"203",
 				"151",
 				"271",
-				"204",
 				"278",
 				"205",
-				"206",
 				"208",
 				"284",
 				"209",
 				"211",
 				"216",
-				"218",
 				"219",
-				"220",
-				"217",
-				"221",
-				"222",
 				"223",
 				"225",
 				"226",
 				"227",
 				"228",
-				"229",
-				"193",
-				"230",
 				"231",
-				"232",
-				"235",
-				"236",
-				"237",
 				"238",
-				"250",
-				"239",
-				"240",
 				"257",
 				"241",
 				"242"
@@ -293,102 +210,174 @@
 					"177"
 				],
 				[
-					"160",
-					"210"
+					"135",
+					"255"
+				],
+				[
+					"135",
+					"229"
 				],
 				[
 					"135",
 					"249"
 				],
 				[
-					"135",
-					"255"
+					"255",
+					"229"
 				],
 				[
-					"143",
-					"207"
+					"255",
+					"249"
 				],
 				[
-					"201",
-					"234"
-				],
-				[
-					"158",
-					"233"
-				],
-				[
-					"144",
-					"172"
-				],
-				[
-					"162",
-					"276"
-				],
-				[
-					"173",
-					"183"
-				],
-				[
-					"172",
-					"173"
-				],
-				[
-					"172",
-					"173",
-					"214"
-				],
-				[
-					"181",
-					"184"
+					"229",
+					"249"
 				]
 			]
 		},
 		{
-			"Name": "Bitter Demise General",
+			"Name": "Tier 1",
 			"SurvivorIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"163",
+				"170",
+				"282",
+				"177",
+				"196",
+				"204",
+				"214",
+				"220"
+			],
+			"SurvivorComboPerkBans": [],
+			"KillerComboPerkBans": [
+				[
+					"143",
+					"160",
+					"210"
+				]
+			]
+		},
+		{
+			"Name": "Tier 2",
+			"SurvivorIndvPerkBans": [
+				"21",
+				"34",
+				"36",
+				"38",
+				"50",
+				"69",
+				"80",
+				"96",
+				"102",
+				"110",
+				"121",
+				"127",
+				"128"
+			],
+			"KillerIndvPerkBans": [
+				"163",
+				"170"
+			],
+			"SurvivorComboPerkBans": [],
+			"KillerComboPerkBans": []
+		},
+		{
+			"Name": "Tier 3",
+			"SurvivorIndvPerkBans": [
+				"21",
+				"246",
+				"34",
+				"36",
+				"38",
+				"39",
+				"50",
+				"57",
+				"69",
+				"76",
+				"80",
+				"96",
+				"92",
+				"102",
+				"109",
+				"110",
+				"121",
+				"127",
+				"128"
+			],
+			"KillerIndvPerkBans": [
+				"163"
+			],
+			"SurvivorComboPerkBans": [],
+			"KillerComboPerkBans": []
+		},
+		{
+			"Name": "Tier 4",
+			"SurvivorIndvPerkBans": [
+				"1",
+				"21",
+				"246",
+				"273",
+				"34",
+				"36",
+				"38",
+				"39",
+				"44",
+				"50",
+				"57",
+				"61",
+				"65",
+				"69",
+				"76",
+				"80",
+				"96",
+				"92",
+				"102",
+				"109",
+				"110",
+				"112",
+				"121",
+				"127",
+				"128"
+			],
 			"KillerIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"KillerComboPerkBans": []
 		},
 		{
-			"Name": "S Tier Balancing",
-			"SurvivorIndvPerkBans": [],
-			"KillerIndvPerkBans": [],
-			"SurvivorComboPerkBans": [],
-			"KillerComboPerkBans": []
-		},
-		{
-			"Name": "A Tier Balancing",
-			"SurvivorIndvPerkBans": [],
-			"KillerIndvPerkBans": [],
-			"SurvivorComboPerkBans": [],
-			"KillerComboPerkBans": []
-		},
-		{
-			"Name": "B Tier Balancing",
-			"SurvivorIndvPerkBans": [],
-			"KillerIndvPerkBans": [],
-			"SurvivorComboPerkBans": [],
-			"KillerComboPerkBans": []
-		},
-		{
-			"Name": "C Tier Balancing",
-			"SurvivorIndvPerkBans": [],
-			"KillerIndvPerkBans": [],
-			"SurvivorComboPerkBans": [],
-			"KillerComboPerkBans": []
-		},
-		{
-			"Name": "D Tier Balancing",
-			"SurvivorIndvPerkBans": [],
-			"KillerIndvPerkBans": [],
-			"SurvivorComboPerkBans": [],
-			"KillerComboPerkBans": []
-		},
-		{
-			"Name": "E Tier Balancing",
-			"SurvivorIndvPerkBans": [],
-			"KillerIndvPerkBans": [],
+			"Name": "Tier 5",
+			"SurvivorIndvPerkBans": [
+				"1",
+				"8",
+				"21",
+				"246",
+				"273",
+				"34",
+				"36",
+				"38",
+				"39",
+				"44",
+				"50",
+				"57",
+				"61",
+				"65",
+				"69",
+				"76",
+				"80",
+				"95",
+				"96",
+				"92",
+				"102",
+				"107",
+				"109",
+				"110",
+				"112",
+				"121",
+				"127",
+				"128"
+			],
+			"KillerIndvPerkBans": [
+				"163"
+			],
 			"SurvivorComboPerkBans": [],
 			"KillerComboPerkBans": []
 		}
@@ -396,11 +385,10 @@
 	"KillerOverride": [
 		{
 			"Name": "The Trapper",
-			"KillerNotes": "Only 3 Perks Per Survivor When Going Against This Killer!!!\n\n\nOfferings Are As Follows:\n\n Killer: 1x Cut Coin\n\n Survivor:\n\n 1x Annotated Blueprint\n 1x Bloodied Blueprint\n 1x Vigo's Shroud\n 1x Shroud Of Binding",
+			"KillerNotes": "",
 			"IsDisabled": true,
 			"Map": [
-				"35",
-				"36"
+				0
 			],
 			"BalanceTiers": [
 				0
@@ -411,167 +399,14 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"0",
-				"1",
-				"2",
-				"3",
-				"4",
-				"5",
-				"6",
-				"52",
-				"7",
-				"8",
-				"258",
-				"9",
-				"104",
-				"10",
-				"11",
-				"12",
-				"13",
-				"14",
-				"15",
-				"16",
-				"17",
-				"18",
-				"247",
-				"19",
-				"20",
-				"21",
-				"22",
-				"23",
-				"24",
-				"25",
-				"26",
-				"60",
-				"246",
-				"27",
-				"28",
-				"273",
-				"29",
-				"30",
-				"31",
-				"32",
-				"33",
-				"34",
-				"248",
-				"35",
-				"36",
-				"37",
-				"38",
-				"39",
-				"40",
-				"41",
-				"42",
-				"43",
-				"44",
-				"45",
-				"268",
-				"267",
-				"46",
-				"261",
-				"101",
-				"47",
-				"48",
-				"49",
-				"50",
-				"51",
-				"262",
-				"53",
-				"54",
-				"55",
-				"56",
-				"57",
-				"274",
-				"252",
-				"58",
-				"59",
-				"61",
-				"62",
-				"63",
-				"64",
-				"65",
-				"66",
-				"67",
-				"68",
-				"69",
-				"70",
-				"259",
-				"269",
-				"71",
-				"72",
-				"73",
-				"74",
-				"75",
-				"76",
-				"77",
-				"78",
-				"79",
-				"80",
-				"81",
-				"82",
-				"83",
-				"84",
-				"85",
-				"86",
-				"87",
-				"88",
-				"89",
-				"90",
-				"91",
-				"93",
-				"94",
-				"95",
-				"96",
-				"97",
-				"98",
-				"99",
-				"100",
-				"92",
-				"102",
-				"103",
-				"275",
-				"105",
-				"106",
-				"107",
-				"108",
-				"109",
-				"110",
-				"263",
-				"111",
-				"112",
-				"113",
-				"260",
-				"114",
-				"253",
-				"115",
-				"116",
-				"117",
-				"118",
-				"119",
-				"120",
-				"121",
-				"122",
-				"123",
-				"124",
-				"125",
-				"126",
-				"127",
-				"128",
-				"254",
-				"129",
-				"130"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [
-				17,
-				18
-			],
+			"IndividualAddonBans": [],
 			"ItemWhitelist": [],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -593,226 +428,42 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [
-				0,
-				2
-			],
-			"KillerOfferings": [
-				5
-			]
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
 		},
 		{
 			"Name": "The Wraith",
-			"KillerNotes": "3x Perks Per Survivor\n\nOfferings Are As Follows:\n\nKiller: 1x Cut Coin\n\nSurvivors: \n1x Torn Blueprint\n1x Bloodied Blueprint\n1x Vigo's Shroud",
+			"KillerNotes": "***Greenville Square Is Fallen Refuge***\n\nOfferings:\n\n1x Torn Blueprint\n1x Annotated Blueprint\n1x Vigo's Shroud\n\n1x Cut Coin\n\n***Indoor Maps Only Require Vigo's Shroud X1***\n",
 			"IsDisabled": false,
 			"Map": [
-				"0",
-				"22",
+				"20",
 				"32",
 				"33",
-				"34"
+				"34",
+				"47"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				5
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				5
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"138",
-				"139",
-				"146",
-				"144",
-				"152",
-				"153",
-				"154",
-				"156",
-				"266",
-				"162",
-				"163",
-				"276",
-				"282",
-				"172",
-				"183",
-				"264",
-				"189",
-				"201",
-				"210",
-				"212",
-				"272",
-				"224",
-				"234"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"0",
-				"1",
-				"2",
-				"3",
-				"285",
-				"5",
-				"6",
-				"52",
-				"7",
-				"8",
-				"258",
-				"9",
-				"104",
-				"10",
-				"11",
-				"12",
-				"13",
-				"14",
-				"15",
-				"16",
-				"17",
-				"18",
-				"247",
-				"19",
-				"20",
-				"21",
-				"22",
-				"23",
-				"24",
-				"25",
-				"26",
-				"60",
-				"246",
-				"27",
-				"28",
-				"273",
-				"286",
-				"288",
-				"29",
-				"33",
-				"34",
-				"248",
-				"35",
-				"36",
-				"37",
-				"38",
-				"39",
-				"40",
-				"41",
-				"42",
-				"279",
-				"43",
-				"280",
-				"44",
-				"45",
-				"268",
-				"267",
-				"46",
-				"261",
-				"48",
-				"49",
-				"50",
-				"51",
-				"262",
-				"53",
-				"54",
-				"55",
-				"56",
-				"57",
-				"274",
-				"252",
-				"58",
-				"59",
-				"289",
-				"61",
-				"62",
-				"63",
-				"64",
-				"65",
-				"66",
-				"67",
-				"68",
-				"69",
-				"259",
-				"269",
-				"71",
-				"72",
-				"73",
-				"74",
-				"75",
-				"76",
-				"77",
-				"78",
-				"79",
-				"80",
-				"81",
-				"82",
-				"83",
-				"84",
-				"85",
-				"86",
-				"88",
-				"281",
-				"89",
-				"90",
-				"91",
-				"94",
-				"95",
-				"96",
-				"97",
-				"98",
-				"99",
-				"100",
-				"92",
-				"102",
-				"103",
-				"275",
-				"105",
-				"106",
-				"107",
-				"108",
-				"109",
-				"110",
-				"263",
-				"111",
-				"112",
-				"113",
-				"260",
-				"114",
-				"253",
-				"115",
-				"116",
-				"290",
-				"287",
-				"117",
-				"118",
-				"119",
-				"120",
-				"121",
-				"122",
-				"124",
-				"126",
-				"127",
-				"128",
-				"254",
-				"130"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
-			"KillerWhitelistedPerks": [
-				"220"
-			],
+			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
 				38,
 				39,
-				37,
-				34,
-				35,
-				36,
-				23,
-				21,
-				28,
-				33,
-				27
+				37
 			],
 			"ItemWhitelist": [
 				0,
@@ -824,9 +475,7 @@
 				},
 				"Flashlight": {
 					"Addons": [
-						1,
 						2,
-						3,
 						4
 					]
 				},
@@ -854,7 +503,7 @@
 		},
 		{
 			"Name": "The Hillbilly",
-			"KillerNotes": "Offerings Are As Follows:\n\nKiller: 1x Cut Coin\n\nSurvivors:\n\n 1x Torn Blueprint\n 1x Annotated Blueprint\n 2x Vigo's Shroud",
+			"KillerNotes": "Offerings:\n\nKiller: 1x Cut Coin\n\nSurvivors:\n\n1x Torn Blueprint\n1x Annotated Blueprint\n2x Vigo's Shroud",
 			"IsDisabled": false,
 			"Map": [
 				"2",
@@ -864,53 +513,35 @@
 				"52"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				1
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				1
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"132",
-				"163",
-				"166",
-				"282",
-				"173",
-				"177",
-				"183",
-				"264",
-				"200",
-				"204",
-				"214",
-				"272",
-				"220"
+				"132"
 			],
-			"KillerComboPerkBans": [
-				[
-					"143",
-					"160",
-					"210"
-				]
-			],
+			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"8",
 				"38",
-				"53",
-				"76"
+				"121"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
-			"KillerWhitelistedPerks": [
-				"172"
-			],
+			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
+			"IndividualAddonBans": [
+				54
+			],
 			"ItemWhitelist": [
 				0,
-				10,
-				5
+				5,
+				10
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -918,9 +549,7 @@
 				},
 				"Flashlight": {
 					"Addons": [
-						1,
 						2,
-						3,
 						4
 					]
 				},
@@ -951,46 +580,28 @@
 		},
 		{
 			"Name": "The Nurse",
-			"KillerNotes": "Offerings Are As Follows:\n\nKiller: 1x Cut Coin\n\nSurvivors: \n1x Torn Blueprint\n1x Annotated Blueprint\n2x Vigo's Shroud\n",
+			"KillerNotes": "\n***Greenville Square Is New Fallen Refuge Map***\n\nOfferings:\n\nKiller: 1x Cut Coin\n\nSurvivors:\n\n1x Torn Blueprint\n1x Annotated Blueprint\n2x Vigo's Shroud",
 			"IsDisabled": false,
 			"Map": [
 				"0",
 				"8",
-				"11",
 				"33",
-				"54"
+				"54",
+				"47"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				1
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				1
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"132",
-				"146",
-				"163",
-				"166",
-				"282",
-				"173",
-				"183",
-				"264",
-				"256",
-				"196",
-				"200",
-				"204",
-				"214",
-				"272",
-				"220"
+				"132"
 			],
-			"KillerComboPerkBans": [
-				[
-					"143",
-					"160",
-					"210"
-				]
-			],
+			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1007,8 +618,8 @@
 			],
 			"ItemWhitelist": [
 				0,
-				10,
-				5
+				4,
+				10
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1016,9 +627,7 @@
 				},
 				"Flashlight": {
 					"Addons": [
-						1,
 						2,
-						3,
 						4
 					]
 				},
@@ -1049,10 +658,10 @@
 		},
 		{
 			"Name": "The Shape",
-			"KillerNotes": "MANDATORY:\n\nSCRATCHED MIRROR OR INFINITE TIER 3",
+			"KillerNotes": "",
 			"IsDisabled": true,
 			"Map": [
-				"32"
+				0
 			],
 			"BalanceTiers": [
 				0
@@ -1061,185 +670,16 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"163"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"0",
-				"1",
-				"2",
-				"3",
-				"4",
-				"5",
-				"6",
-				"52",
-				"7",
-				"8",
-				"258",
-				"9",
-				"104",
-				"10",
-				"11",
-				"12",
-				"13",
-				"14",
-				"15",
-				"16",
-				"17",
-				"18",
-				"247",
-				"19",
-				"20",
-				"21",
-				"22",
-				"23",
-				"24",
-				"25",
-				"26",
-				"60",
-				"246",
-				"27",
-				"28",
-				"273",
-				"29",
-				"30",
-				"31",
-				"32",
-				"33",
-				"34",
-				"248",
-				"35",
-				"36",
-				"37",
-				"38",
-				"39",
-				"40",
-				"41",
-				"42",
-				"43",
-				"44",
-				"45",
-				"268",
-				"267",
-				"46",
-				"261",
-				"101",
-				"47",
-				"48",
-				"49",
-				"50",
-				"51",
-				"262",
-				"53",
-				"54",
-				"55",
-				"56",
-				"57",
-				"274",
-				"252",
-				"58",
-				"59",
-				"61",
-				"62",
-				"63",
-				"64",
-				"65",
-				"66",
-				"67",
-				"68",
-				"69",
-				"70",
-				"259",
-				"269",
-				"71",
-				"72",
-				"73",
-				"74",
-				"75",
-				"76",
-				"77",
-				"78",
-				"79",
-				"80",
-				"81",
-				"82",
-				"83",
-				"84",
-				"85",
-				"86",
-				"87",
-				"88",
-				"89",
-				"90",
-				"91",
-				"93",
-				"94",
-				"95",
-				"96",
-				"97",
-				"98",
-				"99",
-				"100",
-				"92",
-				"102",
-				"103",
-				"275",
-				"105",
-				"106",
-				"107",
-				"108",
-				"109",
-				"110",
-				"263",
-				"111",
-				"112",
-				"113",
-				"260",
-				"114",
-				"253",
-				"115",
-				"116",
-				"117",
-				"118",
-				"119",
-				"120",
-				"121",
-				"122",
-				"123",
-				"124",
-				"125",
-				"126",
-				"127",
-				"128",
-				"254",
-				"129",
-				"130"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [
-				80,
-				81,
-				83,
-				84,
-				85,
-				86,
-				87,
-				88,
-				89,
-				90,
-				91,
-				93,
-				94,
-				95,
-				97,
-				98
-			],
+			"IndividualAddonBans": [],
 			"ItemWhitelist": [],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1261,21 +701,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [
-				0,
-				2
-			],
-			"KillerOfferings": [
-				5
-			]
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
 		},
 		{
 			"Name": "The Hag",
-			"KillerNotes": "Only 3 Perks Per Survivor When Going Against This Killer!!!\n\nOfferings Are As Follows:\n\n Killer: 1x Cut Coin\n\n Survivor:\n\n 1x Annotated Blueprint\n 1x Bloodied Blueprint\n 1x Vigo's Shroud\n 1x Shroud Of Binding",
+			"KillerNotes": "",
 			"IsDisabled": true,
 			"Map": [
-				"33",
-				"34"
+				0
 			],
 			"BalanceTiers": [
 				0
@@ -1284,179 +718,23 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"163",
-				"244",
-				"173",
-				"179",
-				"200"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"0",
-				"1",
-				"2",
-				"3",
-				"4",
-				"5",
-				"6",
-				"52",
-				"7",
-				"8",
-				"258",
-				"9",
-				"104",
-				"11",
-				"12",
-				"13",
-				"14",
-				"15",
-				"16",
-				"17",
-				"18",
-				"247",
-				"19",
-				"20",
-				"21",
-				"22",
-				"23",
-				"24",
-				"25",
-				"26",
-				"60",
-				"246",
-				"27",
-				"28",
-				"273",
-				"29",
-				"31",
-				"33",
-				"34",
-				"248",
-				"35",
-				"36",
-				"37",
-				"38",
-				"39",
-				"40",
-				"41",
-				"42",
-				"43",
-				"44",
-				"45",
-				"268",
-				"267",
-				"46",
-				"261",
-				"47",
-				"48",
-				"49",
-				"50",
-				"51",
-				"262",
-				"54",
-				"55",
-				"56",
-				"57",
-				"274",
-				"252",
-				"58",
-				"59",
-				"61",
-				"62",
-				"64",
-				"65",
-				"66",
-				"67",
-				"68",
-				"69",
-				"70",
-				"259",
-				"269",
-				"71",
-				"72",
-				"73",
-				"74",
-				"75",
-				"76",
-				"77",
-				"78",
-				"79",
-				"80",
-				"81",
-				"82",
-				"83",
-				"84",
-				"85",
-				"86",
-				"88",
-				"89",
-				"90",
-				"91",
-				"93",
-				"94",
-				"96",
-				"97",
-				"98",
-				"99",
-				"100",
-				"92",
-				"102",
-				"103",
-				"275",
-				"105",
-				"106",
-				"107",
-				"108",
-				"109",
-				"110",
-				"263",
-				"111",
-				"112",
-				"113",
-				"260",
-				"114",
-				"253",
-				"115",
-				"116",
-				"117",
-				"119",
-				"120",
-				"121",
-				"122",
-				"124",
-				"126",
-				"127",
-				"128",
-				"254",
-				"130"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [
-				118,
-				119,
-				109,
-				104
-			],
-			"ItemWhitelist": [
-				4
-			],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": [
-						1,
-						2,
-						3,
-						4
-					]
+					"Addons": []
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1471,210 +749,46 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [
-				0,
-				2
-			],
-			"KillerOfferings": [
-				5
-			]
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
 		},
 		{
 			"Name": "The Doctor",
-			"KillerNotes": "3x Perks Per Survivor\n\nOfferings Are As Follows:\n\nKiller: 1x Cut Coin\n\nSurvivors: \n1x Torn Blueprint\n1x Bloodied Blueprint\n1x Vigo's Shroud",
+			"KillerNotes": "***Greenville Square Is The New Fallen Refuge Map***\n\n***Greenville Square Is Fallen Refuge***\n\nOfferings:\n\n1x Torn Blueprint\n1x Annotated Blueprint\n1x Vigo's Shroud",
 			"IsDisabled": false,
 			"Map": [
 				"0",
 				"9",
 				"16",
-				"49",
-				"54"
+				"54",
+				"47"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				5
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				5
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"152",
-				"166",
-				"282",
-				"172",
-				"264",
-				"200",
-				"201",
-				"210",
-				"212",
-				"272",
-				"224",
-				"234"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"0",
-				"1",
-				"2",
-				"3",
-				"285",
-				"5",
-				"6",
-				"52",
-				"7",
-				"8",
-				"258",
-				"9",
-				"104",
-				"10",
-				"11",
-				"12",
-				"13",
-				"14",
-				"15",
-				"16",
-				"17",
-				"18",
-				"247",
-				"19",
-				"20",
-				"21",
-				"22",
-				"23",
-				"24",
-				"25",
-				"26",
-				"60",
-				"246",
-				"27",
-				"28",
-				"273",
-				"286",
-				"288",
-				"29",
-				"33",
-				"34",
-				"248",
-				"35",
-				"36",
-				"37",
-				"38",
-				"39",
-				"40",
-				"41",
-				"42",
-				"279",
-				"43",
-				"280",
-				"44",
-				"45",
-				"268",
-				"267",
-				"46",
-				"261",
-				"48",
-				"49",
-				"50",
-				"51",
-				"262",
-				"53",
-				"54",
-				"55",
-				"56",
-				"57",
-				"274",
-				"252",
-				"58",
-				"59",
-				"289",
-				"61",
-				"62",
-				"63",
-				"64",
-				"65",
-				"66",
-				"67",
-				"68",
-				"69",
-				"259",
-				"269",
-				"71",
-				"72",
-				"73",
-				"74",
-				"75",
-				"76",
-				"77",
-				"78",
-				"79",
-				"80",
-				"81",
-				"82",
-				"83",
-				"84",
-				"85",
-				"86",
-				"88",
-				"281",
-				"89",
-				"90",
-				"91",
-				"94",
-				"95",
-				"96",
-				"97",
-				"98",
-				"99",
-				"100",
-				"92",
-				"102",
-				"103",
-				"275",
-				"105",
-				"106",
-				"107",
-				"108",
-				"109",
-				"110",
-				"263",
-				"111",
-				"112",
-				"113",
-				"260",
-				"114",
-				"253",
-				"115",
-				"116",
-				"290",
-				"287",
-				"117",
-				"118",
-				"119",
-				"120",
-				"121",
-				"122",
-				"124",
-				"126",
-				"127",
-				"128",
-				"254",
-				"130"
+				"26"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
-			"KillerWhitelistedPerks": [
-				"220"
-			],
+			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
 				138,
 				139,
-				121,
-				125,
+				134,
 				132,
-				134
+				125
 			],
 			"ItemWhitelist": [
 				0,
@@ -1686,9 +800,7 @@
 				},
 				"Flashlight": {
 					"Addons": [
-						1,
 						2,
-						3,
 						4
 					]
 				},
@@ -1716,56 +828,29 @@
 		},
 		{
 			"Name": "The Huntress",
-			"KillerNotes": "Offerings Are As Follows:\n\nKiller: 1x Cut Coin\n\nSurvivors: \n1x Torn Blueprint\n1x Bloodied Blueprint\n1x Vigo's Shroud",
+			"KillerNotes": "***Greenville Square Is Fallen Refuge***\n\nOfferings:\n\n1x Torn Blueprint\n1x Annotated Blueprint\n1x Vigo's Shroud",
 			"IsDisabled": false,
 			"Map": [
 				"0",
 				"8",
-				"11",
-				"33",
-				"54"
+				"30",
+				"54",
+				"47"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"132",
-				"144",
-				"162",
-				"163",
-				"189",
-				"272"
+				"163"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"1",
-				"21",
-				"246",
-				"273",
-				"288",
-				"34",
-				"36",
-				"38",
-				"39",
-				"44",
-				"50",
-				"57",
-				"61",
-				"65",
-				"76",
-				"96",
-				"92",
-				"109",
-				"110",
-				"112",
-				"121",
-				"127",
-				"128"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -1775,13 +860,15 @@
 			"IndividualAddonBans": [
 				158,
 				155,
-				153,
 				154,
-				157
+				157,
+				153,
+				148,
+				799
 			],
 			"ItemWhitelist": [
 				0,
-				4
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1789,9 +876,7 @@
 				},
 				"Flashlight": {
 					"Addons": [
-						1,
 						2,
-						3,
 						4
 					]
 				},
@@ -1819,10 +904,10 @@
 		},
 		{
 			"Name": "The Cannibal",
-			"KillerNotes": "Only 3 Perks Allowed Per Survivor Against This Killer!!!",
+			"KillerNotes": "",
 			"IsDisabled": true,
 			"Map": [
-				"33"
+				0
 			],
 			"BalanceTiers": [
 				0
@@ -1831,164 +916,17 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"163",
-				"213"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"0",
-				"1",
-				"2",
-				"3",
-				"4",
-				"5",
-				"6",
-				"52",
-				"7",
-				"8",
-				"258",
-				"9",
-				"104",
-				"11",
-				"12",
-				"13",
-				"14",
-				"15",
-				"16",
-				"17",
-				"18",
-				"247",
-				"19",
-				"20",
-				"21",
-				"22",
-				"23",
-				"24",
-				"25",
-				"26",
-				"60",
-				"246",
-				"27",
-				"28",
-				"273",
-				"29",
-				"31",
-				"33",
-				"34",
-				"248",
-				"35",
-				"36",
-				"37",
-				"38",
-				"39",
-				"40",
-				"41",
-				"42",
-				"43",
-				"44",
-				"45",
-				"268",
-				"267",
-				"46",
-				"261",
-				"47",
-				"48",
-				"49",
-				"50",
-				"51",
-				"262",
-				"54",
-				"55",
-				"56",
-				"57",
-				"274",
-				"252",
-				"58",
-				"59",
-				"61",
-				"62",
-				"64",
-				"65",
-				"66",
-				"67",
-				"68",
-				"69",
-				"70",
-				"259",
-				"269",
-				"71",
-				"73",
-				"74",
-				"75",
-				"76",
-				"77",
-				"78",
-				"79",
-				"80",
-				"81",
-				"82",
-				"83",
-				"84",
-				"85",
-				"86",
-				"88",
-				"89",
-				"90",
-				"91",
-				"93",
-				"94",
-				"95",
-				"96",
-				"97",
-				"98",
-				"99",
-				"100",
-				"92",
-				"102",
-				"275",
-				"105",
-				"106",
-				"107",
-				"108",
-				"109",
-				"110",
-				"263",
-				"111",
-				"112",
-				"113",
-				"260",
-				"114",
-				"253",
-				"115",
-				"116",
-				"117",
-				"119",
-				"120",
-				"121",
-				"122",
-				"124",
-				"126",
-				"127",
-				"128",
-				"254",
-				"129",
-				"130"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [
-				174,
-				177,
-				178
-			],
-			"ItemWhitelist": [
-				4
-			],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
@@ -2009,62 +947,34 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [
-				0,
-				2
-			],
-			"KillerOfferings": [
-				5
-			]
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
 		},
 		{
 			"Name": "The Nightmare",
-			"KillerNotes": "Offerings Are As Follows:\n\nKiller: 1x Cut Coin\n\nSurvivors: \n1x Torn Blueprint\n1x Bloodied Blueprint\n1x Vigo's Shroud",
+			"KillerNotes": "***Greenville Square Is Fallen Refuge***\n\nOfferings:\n\n1x Torn Blueprint\n1x Annotated Blueprint\n1x Vigo's Shroud",
 			"IsDisabled": false,
 			"Map": [
 				"0",
 				"5",
-				"22",
 				"33",
-				"54"
+				"54",
+				"47"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				3
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				3
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"146",
-				"158",
-				"163",
-				"166",
-				"173",
-				"200",
-				"272"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"21",
-				"246",
-				"288",
-				"34",
-				"36",
-				"38",
-				"39",
-				"50",
 				"65",
-				"76",
-				"80",
-				"96",
-				"92",
-				"109",
-				"110",
-				"112",
-				"121",
-				"127",
-				"128"
+				"112"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2075,8 +985,7 @@
 			"IndividualAddonBans": [
 				197,
 				198,
-				196,
-				195
+				196
 			],
 			"ItemWhitelist": [
 				0,
@@ -2088,9 +997,7 @@
 				},
 				"Flashlight": {
 					"Addons": [
-						1,
 						2,
-						3,
 						4
 					]
 				},
@@ -2118,206 +1025,44 @@
 		},
 		{
 			"Name": "The Pig",
-			"KillerNotes": "3x Perks Per Survivor\n\nOfferings Are As Follows:\n\nKiller: 1x Cut Coin\n\nSurvivors: \n1x Torn Blueprint\n1x Bloodied Blueprint\n1x Vigo's Shroud",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"20",
 				"32",
-				"34",
-				"35",
-				"36"
+				"34"
 			],
 			"BalanceTiers": [
 				0,
-				6
+				5
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				6
+				5
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"184",
-				"264",
-				"201",
-				"210",
-				"212",
-				"214",
-				"272",
-				"224"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"0",
-				"1",
-				"2",
-				"3",
-				"285",
-				"5",
-				"6",
-				"52",
-				"7",
-				"8",
-				"258",
-				"9",
-				"104",
-				"10",
-				"11",
-				"12",
-				"13",
-				"14",
-				"15",
-				"16",
-				"17",
-				"18",
-				"247",
-				"19",
-				"20",
-				"21",
-				"22",
-				"23",
-				"24",
-				"25",
-				"26",
-				"60",
-				"246",
-				"27",
-				"28",
-				"273",
-				"286",
-				"288",
-				"29",
-				"33",
-				"34",
-				"248",
-				"35",
-				"36",
-				"37",
-				"38",
-				"39",
-				"40",
-				"41",
-				"42",
-				"279",
-				"43",
-				"280",
-				"44",
-				"45",
-				"268",
-				"267",
-				"46",
-				"261",
-				"48",
-				"49",
-				"50",
-				"51",
-				"262",
-				"53",
-				"54",
-				"55",
-				"56",
-				"57",
-				"274",
-				"252",
-				"58",
-				"59",
-				"289",
-				"61",
-				"62",
-				"63",
-				"64",
-				"65",
-				"66",
-				"67",
-				"68",
-				"69",
-				"259",
-				"269",
-				"71",
-				"72",
-				"73",
-				"74",
-				"75",
-				"76",
-				"77",
-				"78",
-				"79",
-				"80",
-				"81",
-				"82",
-				"83",
-				"84",
-				"85",
-				"86",
-				"88",
-				"281",
-				"89",
-				"90",
-				"91",
-				"94",
-				"95",
-				"96",
-				"97",
-				"98",
-				"99",
-				"100",
-				"92",
-				"102",
-				"103",
-				"275",
-				"105",
-				"106",
-				"107",
-				"108",
-				"109",
-				"110",
-				"263",
-				"111",
-				"112",
-				"113",
-				"260",
-				"114",
-				"253",
-				"115",
-				"116",
-				"290",
-				"287",
-				"117",
-				"118",
-				"119",
-				"120",
-				"121",
-				"122",
-				"124",
-				"126",
-				"127",
-				"128",
-				"254",
-				"130"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
-			"KillerWhitelistedPerks": [
-				"220"
-			],
+			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
 				217,
+				213,
 				216,
 				214,
-				213,
-				218,
+				211,
 				208,
-				209,
-				204,
-				207,
+				205,
 				201
 			],
 			"ItemWhitelist": [
 				0,
-				4
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2325,9 +1070,7 @@
 				},
 				"Flashlight": {
 					"Addons": [
-						1,
 						2,
-						3,
 						4
 					]
 				},
@@ -2345,8 +1088,6 @@
 				}
 			},
 			"SurvivorOfferings": [
-				1,
-				2,
 				5
 			],
 			"KillerOfferings": [
@@ -2355,12 +1096,10 @@
 		},
 		{
 			"Name": "The Clown",
-			"KillerNotes": "Offerings Are As Follows:\n\nKiller: Cut Coin\n\nSurvivors:\n\nAnnotated Blueprint\nBloodied Blueprint\nVigo's Shroud\nShroud Of Binding\n\nFlashlight Is Allowed 2 Add Ons!!!",
+			"KillerNotes": "",
 			"IsDisabled": true,
 			"Map": [
-				"0",
-				"8",
-				"11"
+				0
 			],
 			"BalanceTiers": [
 				0
@@ -2369,54 +1108,23 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"163"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"13",
-				"21",
-				"34",
-				"36",
-				"38",
-				"44",
-				"57",
-				"65",
-				"76",
-				"96",
-				"92",
-				"109",
-				"112",
-				"121",
-				"127",
-				"128"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [
-				237,
-				238,
-				235
-			],
-			"ItemWhitelist": [
-				0,
-				5
-			],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": [
-						1,
-						2,
-						3,
-						4
-					]
+					"Addons": []
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -2431,68 +1139,45 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [
-				0,
-				2
-			],
-			"KillerOfferings": [
-				5
-			]
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
 		},
 		{
 			"Name": "The Spirit",
-			"KillerNotes": "Offerings Are As Follows:\n\nKiller: 1x Cut Coin\n\nSurvivors: \n1x Torn Blueprint\n1x Annotated Blueprint\n2x Vigo's Shroud\n",
+			"KillerNotes": "***Greenville Square Is New Fallen Refuge Map***\n\n\nOfferings:\n\nKiller: 1x Cut Coin\n\nSurvivors:\n\n1x Torn Blueprint\n1x Annotated Blueprint\n2x Vigo's Shroud",
 			"IsDisabled": false,
 			"Map": [
 				"0",
 				"5",
 				"8",
-				"33",
-				"54"
+				"54",
+				"47"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				1
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				1
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"132",
-				"146",
-				"163",
-				"166",
-				"282",
-				"172",
-				"173",
-				"177",
-				"183",
-				"264",
-				"196",
-				"200",
-				"204",
-				"214",
-				"272",
-				"220"
-			],
-			"KillerComboPerkBans": [
-				[
-					"143",
-					"160",
-					"210"
-				]
-			],
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"10",
 				"32",
-				"35",
 				"38",
 				"58",
 				"63",
 				"64",
 				"68",
+				"69",
 				"78",
-				"103"
+				"80",
+				"103",
+				"110",
+				"121"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2519,9 +1204,7 @@
 				},
 				"Flashlight": {
 					"Addons": [
-						1,
 						2,
-						3,
 						4
 					]
 				},
@@ -2552,209 +1235,45 @@
 		},
 		{
 			"Name": "The Legion",
-			"KillerNotes": "3x Perks Per Survivor\n\nOfferings Are As Follows:\n\nKiller: 1x Cut Coin\n\nSurvivors: \n1x Torn Blueprint\n1x Bloodied Blueprint\n1x Vigo's Shroud",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"9",
 				"28",
-				"32",
 				"33",
-				"54"
+				"54",
+				"47"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				5
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				5
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"146",
-				"152",
-				"172",
-				"184",
-				"264",
-				"189",
-				"201",
-				"210",
-				"212",
-				"214",
-				"272",
-				"224",
 				"249"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"0",
-				"1",
-				"2",
-				"3",
-				"285",
-				"5",
-				"6",
-				"52",
-				"7",
-				"8",
-				"258",
-				"9",
-				"104",
-				"10",
-				"11",
-				"12",
-				"13",
-				"14",
-				"15",
-				"16",
-				"17",
-				"18",
-				"247",
-				"19",
-				"20",
-				"21",
-				"22",
-				"23",
-				"24",
-				"25",
-				"26",
-				"60",
-				"246",
-				"27",
-				"28",
-				"273",
-				"286",
-				"288",
-				"29",
-				"33",
-				"34",
-				"248",
-				"35",
-				"36",
-				"37",
-				"38",
-				"39",
-				"40",
-				"41",
-				"42",
-				"279",
-				"43",
-				"280",
-				"44",
-				"45",
-				"268",
-				"267",
-				"46",
-				"261",
-				"48",
-				"49",
-				"50",
-				"51",
-				"262",
-				"53",
-				"54",
-				"55",
-				"56",
-				"57",
-				"274",
-				"252",
-				"58",
-				"59",
-				"289",
-				"61",
-				"62",
-				"63",
-				"64",
-				"65",
-				"66",
-				"67",
-				"68",
-				"69",
-				"259",
-				"269",
-				"71",
-				"72",
-				"73",
-				"74",
-				"75",
-				"76",
-				"77",
-				"78",
-				"79",
-				"80",
-				"81",
-				"82",
-				"83",
-				"84",
-				"85",
-				"86",
-				"88",
-				"281",
-				"89",
-				"90",
-				"91",
-				"94",
-				"95",
-				"96",
-				"97",
-				"98",
-				"99",
-				"100",
-				"92",
-				"102",
-				"103",
-				"275",
-				"105",
-				"106",
-				"107",
-				"108",
-				"109",
-				"110",
-				"263",
-				"111",
-				"112",
-				"113",
-				"260",
-				"114",
-				"253",
-				"115",
-				"116",
-				"290",
-				"287",
-				"117",
-				"118",
-				"119",
-				"120",
-				"121",
-				"122",
-				"124",
-				"126",
-				"127",
-				"128",
-				"254",
-				"130"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
-			"KillerWhitelistedPerks": [
-				"220"
-			],
+			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
 				278,
-				271,
 				273,
-				277,
-				274,
-				270,
-				268,
-				266,
-				264,
-				259
+				276,
+				271,
+				262
 			],
 			"ItemWhitelist": [
 				0,
-				4
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2762,9 +1281,7 @@
 				},
 				"Flashlight": {
 					"Addons": [
-						1,
 						2,
-						3,
 						4
 					]
 				},
@@ -2792,47 +1309,29 @@
 		},
 		{
 			"Name": "The Plague",
-			"KillerNotes": "Offerings Are As Follows:\n\nKiller: 1x Cut Coin\n\nSurvivors: \n1x Torn Blueprint\n1x Bloodied Blueprint\n1x Vigo's Shroud",
+			"KillerNotes": "***Greenville Square Is Fallen Refuge***\n\nOfferings:\n\n1x Torn Blueprint\n1x Annotated Blueprint\n1x Vigo's Shroud",
 			"IsDisabled": false,
 			"Map": [
 				"4",
 				"5",
-				"9",
-				"49",
-				"54"
+				"16",
+				"54",
+				"47"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				3
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				3
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"146",
-				"158",
-				"163",
-				"272"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"246",
-				"288",
-				"34",
-				"36",
-				"38",
-				"50",
 				"53",
-				"57",
-				"65",
-				"76",
-				"80",
-				"95",
-				"92",
-				"110",
-				"112",
-				"121",
-				"128"
+				"95"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2841,11 +1340,18 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				298,
-				280,
 				297,
-				281,
-				293
+				298,
+				293,
+				294,
+				288,
+				284,
+				282,
+				280,
+				295,
+				290,
+				289,
+				286
 			],
 			"ItemWhitelist": [
 				0,
@@ -2857,9 +1363,7 @@
 				},
 				"Flashlight": {
 					"Addons": [
-						1,
 						2,
-						3,
 						4
 					]
 				},
@@ -2887,7 +1391,7 @@
 		},
 		{
 			"Name": "The Ghost Face",
-			"KillerNotes": "3x Perks Per Survivor\n\nOfferings Are As Follows:\n\nKiller: 1x Cut Coin\n\nSurvivors: \n1x Torn Blueprint\n1x Bloodied Blueprint\n1x Vigo's Shroud",
+			"KillerNotes": "\n\nOfferings:\n\n1x Torn Blueprint\n1x Annotated Blueprint\n1x Vigo's Shroud",
 			"IsDisabled": false,
 			"Map": [
 				"20",
@@ -2895,199 +1399,31 @@
 				"34"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				5
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				5
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"146",
-				"152",
-				"158",
-				"163",
-				"166",
-				"282",
-				"172",
-				"200",
-				"201",
-				"210",
-				"212",
-				"214",
-				"272",
-				"224",
-				"234"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"0",
-				"1",
-				"2",
-				"3",
-				"285",
-				"5",
-				"6",
-				"52",
-				"7",
-				"8",
-				"258",
-				"9",
-				"104",
-				"10",
-				"11",
-				"12",
-				"13",
-				"14",
-				"15",
-				"16",
-				"17",
-				"18",
-				"247",
-				"19",
-				"20",
-				"21",
-				"22",
-				"23",
-				"24",
-				"25",
-				"26",
-				"60",
-				"246",
-				"27",
-				"28",
-				"273",
-				"286",
-				"288",
-				"29",
-				"33",
-				"34",
-				"248",
-				"35",
-				"36",
-				"37",
-				"38",
-				"39",
-				"40",
-				"41",
-				"42",
-				"279",
-				"43",
-				"280",
-				"44",
-				"45",
-				"268",
-				"267",
-				"46",
-				"261",
-				"48",
-				"49",
-				"50",
-				"51",
-				"262",
-				"53",
-				"54",
-				"55",
-				"56",
-				"57",
-				"274",
-				"252",
-				"58",
-				"59",
-				"289",
-				"61",
-				"62",
-				"63",
-				"64",
-				"65",
-				"66",
-				"67",
-				"68",
-				"69",
-				"259",
-				"269",
-				"71",
-				"72",
-				"73",
-				"74",
-				"75",
-				"76",
-				"77",
-				"78",
-				"79",
-				"80",
-				"81",
-				"82",
-				"83",
-				"84",
-				"85",
-				"86",
-				"88",
-				"281",
-				"89",
-				"90",
-				"91",
-				"94",
-				"95",
-				"96",
-				"97",
-				"98",
-				"99",
-				"100",
-				"92",
-				"102",
-				"103",
-				"275",
-				"105",
-				"106",
-				"107",
-				"108",
-				"109",
-				"110",
-				"263",
-				"111",
-				"112",
-				"113",
-				"260",
-				"114",
-				"253",
-				"115",
-				"116",
-				"290",
-				"287",
-				"117",
-				"118",
-				"119",
-				"120",
-				"121",
-				"122",
-				"124",
-				"126",
-				"127",
-				"128",
-				"254",
-				"130"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
-			"KillerWhitelistedPerks": [
-				"220"
-			],
+			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				318,
 				317,
-				304,
-				307,
-				306,
-				305,
-				303,
-				308,
+				318,
 				316,
-				315,
-				314,
-				313
+				313,
+				306,
+				303,
+				314
 			],
 			"ItemWhitelist": [
 				0,
@@ -3099,9 +1435,7 @@
 				},
 				"Flashlight": {
 					"Addons": [
-						1,
 						2,
-						3,
 						4
 					]
 				},
@@ -3129,55 +1463,27 @@
 		},
 		{
 			"Name": "The Demogorgon",
-			"KillerNotes": "Offerings Are As Follows:\n\nKiller: 1x Cut Coin\n\nSurvivors: \n1x Torn Blueprint\n1x Bloodied Blueprint\n1x Vigo's Shroud",
+			"KillerNotes": "***Greenville Square Is Fallen Refuge***\n\nOfferings:\n\n1x Torn Blueprint\n1x Annotated Blueprint\n1x Vigo's Shroud",
 			"IsDisabled": false,
 			"Map": [
 				"0",
 				"5",
 				"13",
-				"22",
-				"54"
+				"54",
+				"47"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				4
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"173",
-				"200",
-				"204",
-				"272"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"1",
-				"21",
-				"246",
-				"273",
-				"288",
-				"34",
-				"36",
-				"38",
-				"39",
-				"44",
-				"50",
-				"57",
-				"61",
-				"65",
-				"76",
-				"80",
-				"96",
-				"92",
-				"109",
-				"110",
-				"112",
-				"121",
-				"127",
-				"128"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -3185,7 +1491,9 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				337
+				337,
+				338,
+				328
 			],
 			"ItemWhitelist": [
 				0,
@@ -3197,9 +1505,7 @@
 				},
 				"Flashlight": {
 					"Addons": [
-						1,
 						2,
-						3,
 						4
 					]
 				},
@@ -3227,12 +1533,10 @@
 		},
 		{
 			"Name": "The Oni",
-			"KillerNotes": "Offerings Are As Follows:\n\nKiller: 1x Cut Coin\n\nSurvivor: \n\n 1x Bloodied Blueprint\n 1x Annotated Blueprint\n 1x Vigo's Shroud\n 1x Shroud Of Binding",
+			"KillerNotes": "",
 			"IsDisabled": true,
 			"Map": [
-				"0",
-				"11",
-				"49"
+				0
 			],
 			"BalanceTiers": [
 				0
@@ -3241,57 +1545,23 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"163"
-			],
-			"KillerComboPerkBans": [
-				[
-					"178",
-					"264"
-				]
-			],
-			"SurvivorIndvPerkBans": [
-				"13",
-				"21",
-				"34",
-				"36",
-				"38",
-				"44",
-				"57",
-				"76",
-				"96",
-				"92",
-				"109",
-				"112",
-				"121",
-				"127",
-				"128"
-			],
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [
-				357,
-				358
-			],
-			"ItemWhitelist": [
-				0,
-				5
-			],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": [
-						1,
-						2,
-						3,
-						4
-					]
+					"Addons": []
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -3306,74 +1576,42 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [
-				0,
-				2
-			],
-			"KillerOfferings": [
-				5
-			]
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
 		},
 		{
 			"Name": "The Deathslinger",
-			"KillerNotes": "Offerings Are As Follows:\n\n Killer: 1x Cut Coin\n\n Survivor: \n\n 1x Vigo's Shroud\n 1x Shroud Of Binding\n 1x Annotated Blueprint\n 1x Bloodied Blueprint",
+			"KillerNotes": "",
 			"IsDisabled": true,
 			"Map": [
-				"4",
-				"5",
-				"8"
+				0
 			],
 			"BalanceTiers": [
-				0
+				0,
+				3
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				3
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"163"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"13",
-				"21",
-				"246",
-				"34",
-				"36",
-				"38",
-				"44",
-				"57",
-				"76",
-				"96",
-				"109",
-				"121",
-				"127"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [
-				378,
-				377
-			],
-			"ItemWhitelist": [
-				0,
-				5
-			],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": [
-						1,
-						2,
-						3,
-						4
-					]
+					"Addons": []
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -3388,58 +1626,32 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [
-				0,
-				2
-			],
-			"KillerOfferings": [
-				5
-			]
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
 		},
 		{
 			"Name": "The Executioner",
-			"KillerNotes": "Offerings Are As Follows:\n\nKiller: 1x Cut Coin\n\nSurvivors: \n1x Torn Blueprint\n1x Bloodied Blueprint\n1x Vigo's Shroud",
+			"KillerNotes": "***Greenville Square Is Fallen Refuge***\n\nOfferings:\n\n1x Torn Blueprint\n1x Annotated Blueprint\n1x Vigo's Shroud",
 			"IsDisabled": false,
 			"Map": [
-				"3",
+				"4",
+				"5",
 				"8",
-				"9",
-				"51",
-				"54"
+				"54",
+				"47"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				3
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				3
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"163",
-				"272"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"21",
-				"246",
-				"288",
-				"34",
-				"36",
-				"38",
-				"39",
-				"50",
-				"65",
-				"76",
-				"80",
-				"96",
-				"92",
-				"109",
-				"110",
-				"112",
-				"121",
-				"127",
-				"128"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -3447,13 +1659,16 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				382,
-				384,
-				391,
-				392,
-				390,
 				397,
-				398
+				398,
+				394,
+				393,
+				392,
+				391,
+				390,
+				385,
+				384,
+				382
 			],
 			"ItemWhitelist": [
 				0,
@@ -3465,9 +1680,7 @@
 				},
 				"Flashlight": {
 					"Addons": [
-						1,
 						2,
-						3,
 						4
 					]
 				},
@@ -3495,7 +1708,7 @@
 		},
 		{
 			"Name": "The Blight",
-			"KillerNotes": "Offerings Are As Follows:\n\nKiller: 1x Cut Coin\n\nSurvivors:\n\n 1x Torn Blueprint\n 1x Annotated Blueprint\n 2x Vigo's Shroud\n",
+			"KillerNotes": "Offerings:\n\nKiller: 1x Cut Coin\n\nSurvivors:\n\n1x Torn Blueprint\n1x Annotated Blueprint\n2x Vigo's Shroud",
 			"IsDisabled": false,
 			"Map": [
 				"2",
@@ -3505,36 +1718,21 @@
 				"52"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				1
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				1
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"132",
 				"142",
 				"162",
-				"163",
-				"166",
-				"172",
-				"177",
-				"178",
-				"264",
-				"196",
-				"200",
-				"204",
-				"214",
-				"272",
-				"220"
+				"172"
 			],
-			"KillerComboPerkBans": [
-				[
-					"143",
-					"160",
-					"210"
-				]
-			],
+			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -3545,14 +1743,14 @@
 			"IndividualAddonBans": [
 				417,
 				418,
-				412,
 				416,
+				412,
 				410,
 				403
 			],
 			"ItemWhitelist": [
 				0,
-				10,
+				9,
 				5
 			],
 			"AddonWhitelist": {
@@ -3561,9 +1759,7 @@
 				},
 				"Flashlight": {
 					"Addons": [
-						1,
 						2,
-						3,
 						4
 					]
 				},
@@ -3594,50 +1790,33 @@
 		},
 		{
 			"Name": "The Twins",
-			"KillerNotes": "Offerings Are As Follows:\n\nKiller: 1x Cut Coin\n\nSurvivors: \n1x Torn Blueprint\n1x Bloodied Blueprint\n1x Vigo's Shroud",
+			"KillerNotes": "Offerings:\n\nKiller: 1x Cut Coin\n\nSurvivors:\n\n1x Torn Blueprint\n1x Annotated Blueprint\n1x Vigo's Shroud",
 			"IsDisabled": false,
 			"Map": [
 				"4",
-				"43",
 				"5",
-				"16",
-				"52"
+				"9",
+				"20",
+				"32"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				2
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"132",
-				"146",
-				"163",
-				"173",
-				"200",
-				"272"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"21",
 				"246",
-				"288",
-				"34",
-				"36",
-				"38",
 				"39",
-				"50",
 				"57",
 				"76",
-				"80",
-				"96",
 				"92",
-				"109",
-				"110",
-				"121",
-				"127",
-				"128"
+				"109"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -3646,10 +1825,10 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				433,
 				438,
-				434,
-				428
+				433,
+				428,
+				425
 			],
 			"ItemWhitelist": [
 				0,
@@ -3661,9 +1840,7 @@
 				},
 				"Flashlight": {
 					"Addons": [
-						1,
 						2,
-						3,
 						4
 					]
 				},
@@ -3691,62 +1868,35 @@
 		},
 		{
 			"Name": "The Trickster",
-			"KillerNotes": "Offerings Are As Follows:\n\n\nKiller: Cut Coin\n\nSurvivors:\n\nAnnotated Blueprint\nBloodied Blueprint\nVigo's Shroud\nShroud Of Binding\n\nYou Are ALLOWED 2 Add Ons On The Flashlight! ",
+			"KillerNotes": "",
 			"IsDisabled": true,
 			"Map": [
-				"8",
-				"33"
+				0
 			],
 			"BalanceTiers": [
-				0,
-				4
+				0
 			],
 			"SurvivorBalanceTiers": [
-				0,
-				4
+				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"172"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"16",
-				"21",
-				"36",
-				"65",
-				"80",
-				"98",
-				"121",
-				"127",
-				"130"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [
-				457,
-				453,
-				458
-			],
-			"ItemWhitelist": [
-				0,
-				4
-			],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": [
-						1,
-						2,
-						3,
-						4
-					]
+					"Addons": []
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -3761,13 +1911,8 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [
-				0,
-				2
-			],
-			"KillerOfferings": [
-				5
-			]
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
 		},
 		{
 			"Name": "The Nemesis",
@@ -3814,205 +1959,46 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [
-				0,
-				2
-			],
+			"SurvivorOfferings": [],
 			"KillerOfferings": []
 		},
 		{
 			"Name": "The Cenobite",
-			"KillerNotes": "3x Perks Per Survivor\n\nOfferings Are As Follows:\n\nKiller: 1x Cut Coin\n\nSurvivors: \n1x Torn Blueprint\n1x Bloodied Blueprint\n1x Vigo's Shroud",
+			"KillerNotes": "***Greenville Square Is The New Fallen Refuge Map***",
 			"IsDisabled": false,
 			"Map": [
-				"0",
 				"9",
 				"11",
 				"33",
-				"54"
+				"54",
+				"47"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				5
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				5
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"172",
-				"184",
-				"264",
-				"201",
-				"210",
-				"212",
-				"214",
-				"272"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"0",
-				"1",
-				"2",
-				"3",
-				"285",
-				"5",
-				"6",
-				"52",
-				"7",
-				"8",
-				"258",
-				"9",
-				"104",
-				"10",
-				"11",
-				"12",
-				"13",
-				"14",
-				"15",
-				"16",
-				"17",
-				"18",
-				"247",
-				"19",
-				"20",
-				"21",
-				"22",
-				"23",
-				"24",
-				"25",
-				"26",
-				"60",
-				"246",
-				"27",
-				"28",
-				"273",
-				"286",
-				"288",
-				"29",
-				"33",
-				"34",
-				"248",
-				"35",
-				"36",
-				"37",
-				"38",
-				"39",
-				"40",
-				"41",
-				"42",
-				"279",
-				"43",
-				"280",
-				"44",
-				"45",
-				"268",
-				"267",
-				"46",
-				"261",
-				"48",
-				"49",
-				"50",
-				"51",
-				"262",
-				"53",
-				"54",
-				"55",
-				"56",
-				"57",
-				"274",
-				"252",
-				"58",
-				"59",
-				"289",
-				"61",
-				"62",
-				"63",
-				"64",
-				"65",
-				"66",
-				"67",
-				"68",
-				"69",
-				"259",
-				"269",
-				"71",
-				"72",
-				"73",
-				"74",
-				"75",
-				"76",
-				"77",
-				"78",
-				"79",
-				"80",
-				"81",
-				"82",
-				"83",
-				"84",
-				"85",
-				"86",
-				"88",
-				"281",
-				"89",
-				"90",
-				"91",
-				"94",
-				"95",
-				"96",
-				"97",
-				"98",
-				"99",
-				"100",
-				"92",
-				"102",
-				"103",
-				"275",
-				"105",
-				"106",
-				"107",
-				"108",
-				"109",
-				"110",
-				"263",
-				"111",
-				"112",
-				"113",
-				"260",
-				"114",
-				"253",
-				"115",
-				"116",
-				"290",
-				"287",
-				"117",
-				"118",
-				"119",
-				"120",
-				"121",
-				"122",
-				"124",
-				"126",
-				"127",
-				"128",
-				"254",
-				"130"
+				"101"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
-			"KillerWhitelistedPerks": [
-				"220"
-			],
+			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				498,
 				497,
-				495,
-				482,
-				489,
+				498,
 				496,
-				493
+				495,
+				489
 			],
 			"ItemWhitelist": [
 				0,
@@ -4024,9 +2010,7 @@
 				},
 				"Flashlight": {
 					"Addons": [
-						1,
 						2,
-						3,
 						4
 					]
 				},
@@ -4054,55 +2038,27 @@
 		},
 		{
 			"Name": "The Artist",
-			"KillerNotes": "Offerings Are As Follows:\n\nKiller: 1x Cut Coin\n\nSurvivors: \n1x Torn Blueprint\n1x Bloodied Blueprint\n1x Vigo's Shroud",
+			"KillerNotes": "***Greenville Is The New Fallen Refuge Map***",
 			"IsDisabled": false,
 			"Map": [
-				"42",
+				"4",
 				"5",
-				"11",
-				"14",
-				"54"
+				"9",
+				"54",
+				"47"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				4
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"146",
-				"163",
-				"282",
-				"264",
-				"214",
-				"272"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"21",
-				"246",
-				"273",
-				"288",
-				"34",
-				"36",
-				"38",
-				"44",
-				"50",
-				"57",
-				"61",
-				"65",
-				"76",
-				"80",
-				"96",
-				"92",
-				"109",
-				"110",
-				"112",
-				"121",
-				"127",
-				"128"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -4110,9 +2066,10 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				515,
 				517,
-				518
+				518,
+				515,
+				510
 			],
 			"ItemWhitelist": [
 				0,
@@ -4124,9 +2081,7 @@
 				},
 				"Flashlight": {
 					"Addons": [
-						1,
 						2,
-						3,
 						4
 					]
 				},
@@ -4154,7 +2109,7 @@
 		},
 		{
 			"Name": "The Onryo",
-			"KillerNotes": "3x Perks Per Survivor\n\nOfferings Are As Follows:\n\nKiller: 1x Cut Coin\n\nSurvivors: \n1x Torn Blueprint\n1x Bloodied Blueprint\n1x Vigo's Shroud",
+			"KillerNotes": "\n\nOfferings:\n\n\n1x Vigo's Shroud",
 			"IsDisabled": false,
 			"Map": [
 				"20",
@@ -4163,199 +2118,30 @@
 			],
 			"BalanceTiers": [
 				0,
-				6
+				5
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				6
+				5
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"152",
-				"163",
-				"172",
-				"173",
-				"184",
-				"264",
-				"189",
-				"200",
-				"201",
-				"210",
-				"212",
-				"214",
-				"272",
-				"224"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"0",
-				"1",
-				"2",
-				"3",
-				"285",
-				"5",
-				"6",
-				"52",
-				"7",
-				"8",
-				"258",
-				"9",
-				"104",
-				"10",
-				"11",
-				"12",
-				"13",
-				"14",
-				"15",
-				"16",
-				"17",
-				"18",
-				"247",
-				"19",
-				"20",
-				"21",
-				"22",
-				"23",
-				"24",
-				"25",
-				"26",
-				"60",
-				"246",
-				"27",
-				"28",
-				"273",
-				"286",
-				"288",
-				"29",
-				"33",
-				"34",
-				"248",
-				"35",
-				"36",
-				"37",
-				"38",
-				"39",
-				"40",
-				"41",
-				"42",
-				"279",
-				"43",
-				"280",
-				"44",
-				"45",
-				"268",
-				"267",
-				"46",
-				"261",
-				"48",
-				"49",
-				"50",
-				"51",
-				"262",
-				"53",
-				"54",
-				"55",
-				"56",
-				"57",
-				"274",
-				"252",
-				"58",
-				"59",
-				"289",
-				"61",
-				"62",
-				"63",
-				"64",
-				"65",
-				"66",
-				"67",
-				"68",
-				"69",
-				"259",
-				"269",
-				"71",
-				"72",
-				"73",
-				"74",
-				"75",
-				"76",
-				"77",
-				"78",
-				"79",
-				"80",
-				"81",
-				"82",
-				"83",
-				"84",
-				"85",
-				"86",
-				"88",
-				"281",
-				"89",
-				"90",
-				"91",
-				"94",
-				"95",
-				"96",
-				"97",
-				"98",
-				"99",
-				"100",
-				"92",
-				"102",
-				"103",
-				"275",
-				"105",
-				"106",
-				"107",
-				"108",
-				"109",
-				"110",
-				"263",
-				"111",
-				"112",
-				"113",
-				"260",
-				"114",
-				"253",
-				"115",
-				"116",
-				"290",
-				"287",
-				"117",
-				"118",
-				"119",
-				"120",
-				"121",
-				"122",
-				"124",
-				"126",
-				"127",
-				"128",
-				"254",
-				"130"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
-			"KillerWhitelistedPerks": [
-				"220"
-			],
+			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				538,
 				537,
+				538,
 				536,
 				535,
 				534,
-				531,
-				525,
-				523,
-				530,
-				529,
-				528,
-				533
+				533,
+				531
 			],
 			"ItemWhitelist": [
 				0,
@@ -4367,9 +2153,7 @@
 				},
 				"Flashlight": {
 					"Addons": [
-						1,
 						2,
-						3,
 						4
 					]
 				},
@@ -4387,8 +2171,6 @@
 				}
 			},
 			"SurvivorOfferings": [
-				1,
-				2,
 				5
 			],
 			"KillerOfferings": [
@@ -4397,7 +2179,7 @@
 		},
 		{
 			"Name": "The Dredge",
-			"KillerNotes": "3x Perks Per Survivor\n\nOfferings Are As Follows:\n\nKiller: 1x Cut Coin\n\nSurvivors: \n1x Torn Blueprint\n1x Bloodied Blueprint\n1x Vigo's Shroud",
+			"KillerNotes": "\n\nOfferings:\n\n\n1x Vigo's Shroud",
 			"IsDisabled": false,
 			"Map": [
 				"20",
@@ -4405,196 +2187,35 @@
 				"34"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				5
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				5
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"163",
-				"282",
-				"172",
-				"173",
-				"200",
-				"201",
-				"210",
-				"212",
-				"214",
-				"224",
-				"234"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"0",
-				"1",
-				"2",
-				"3",
-				"285",
-				"5",
-				"6",
-				"52",
-				"7",
-				"8",
-				"258",
-				"9",
-				"104",
-				"10",
-				"11",
-				"12",
-				"13",
-				"14",
-				"15",
-				"16",
-				"17",
-				"18",
-				"247",
-				"19",
-				"20",
-				"21",
-				"22",
-				"23",
-				"24",
-				"25",
-				"26",
-				"60",
-				"246",
-				"27",
-				"28",
-				"273",
-				"286",
-				"288",
-				"29",
-				"33",
-				"34",
-				"248",
-				"35",
-				"36",
-				"37",
-				"38",
-				"39",
-				"40",
-				"41",
-				"42",
-				"279",
-				"43",
-				"280",
-				"44",
-				"45",
-				"268",
-				"267",
-				"46",
-				"261",
-				"48",
-				"49",
-				"50",
-				"51",
-				"262",
-				"53",
-				"54",
-				"55",
-				"56",
-				"57",
-				"274",
-				"252",
-				"58",
-				"59",
-				"289",
-				"61",
-				"62",
-				"63",
-				"64",
-				"65",
-				"66",
-				"67",
-				"68",
-				"69",
-				"259",
-				"269",
-				"71",
-				"72",
-				"73",
-				"74",
-				"75",
-				"76",
-				"77",
-				"78",
-				"79",
-				"80",
-				"81",
-				"82",
-				"83",
-				"84",
-				"85",
-				"86",
-				"88",
-				"281",
-				"89",
-				"90",
-				"91",
-				"94",
-				"95",
-				"96",
-				"97",
-				"98",
-				"99",
-				"100",
-				"92",
-				"102",
-				"103",
-				"275",
-				"105",
-				"106",
-				"107",
-				"108",
-				"109",
-				"110",
-				"263",
-				"111",
-				"112",
-				"113",
-				"260",
-				"114",
-				"253",
-				"115",
-				"116",
-				"290",
-				"287",
-				"117",
-				"118",
-				"119",
-				"120",
-				"121",
-				"122",
-				"124",
-				"126",
-				"127",
-				"128",
-				"254",
-				"130"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
-			"KillerWhitelistedPerks": [
-				"220"
-			],
+			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				558,
+				548,
 				557,
+				558,
 				554,
 				555,
 				556,
-				541,
-				549,
-				548,
-				553
+				542
 			],
 			"ItemWhitelist": [
-				0,
-				5
+				5,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -4602,9 +2223,7 @@
 				},
 				"Flashlight": {
 					"Addons": [
-						1,
 						2,
-						3,
 						4
 					]
 				},
@@ -4622,8 +2241,6 @@
 				}
 			},
 			"SurvivorOfferings": [
-				1,
-				2,
 				5
 			],
 			"KillerOfferings": [
@@ -4632,12 +2249,10 @@
 		},
 		{
 			"Name": "The Mastermind",
-			"KillerNotes": "Offerings Are As Follows:\n\nKiller: 1x Cut Coin\n\nSurvivor:\n \n 1x Annotated Blueprint\n 1x Bloodied Blueprint\n 1x Vigo's Shroud\n 1x Shroud Of Binding",
+			"KillerNotes": "",
 			"IsDisabled": true,
 			"Map": [
-				"8",
-				"9",
-				"49"
+				0
 			],
 			"BalanceTiers": [
 				0
@@ -4646,50 +2261,23 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"163"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"13",
-				"21",
-				"34",
-				"36",
-				"38",
-				"76",
-				"96",
-				"109",
-				"121",
-				"127",
-				"128"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [
-				578,
-				577,
-				575,
-				576
-			],
-			"ItemWhitelist": [
-				0,
-				5
-			],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": [
-						1,
-						2,
-						3,
-						4
-					]
+					"Addons": []
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -4704,13 +2292,8 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [
-				0,
-				2
-			],
-			"KillerOfferings": [
-				5
-			]
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
 		},
 		{
 			"Name": "The Knight",
@@ -4757,37 +2340,24 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [
-				0,
-				2
-			],
-			"KillerOfferings": [
-				5
-			]
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
 		},
 		{
 			"Name": "The Skull Merchant",
-			"KillerNotes": "Offerings Are As Follows:\n\n Killer: 1x Cut Coin\n\n Survivor:\n\n 1x Annotated Blueprint\n 1x Bloodied Blueprint\n 1x Vigo's Shroud\n 1x Shroud Of Binding",
+			"KillerNotes": "",
 			"IsDisabled": true,
 			"Map": [
-				"5",
-				"16"
+				0
 			],
 			"BalanceTiers": [
-				0,
-				5
+				0
 			],
 			"SurvivorBalanceTiers": [
-				0,
-				5
+				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"178",
-				"183",
-				"198",
-				"227"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -4796,31 +2366,14 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [
-				615,
-				616,
-				617,
-				618,
-				613,
-				614,
-				611,
-				607
-			],
-			"ItemWhitelist": [
-				0,
-				4
-			],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": [
-						1,
-						2,
-						3,
-						4
-					]
+					"Addons": []
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -4835,56 +2388,34 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [
-				0,
-				2
-			],
-			"KillerOfferings": [
-				5
-			]
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
 		},
 		{
 			"Name": "The Singularity",
-			"KillerNotes": "Offerings Are As Follows:\n\nKiller: 1x Cut Coin\n\nSurvivors: \n1x Torn Blueprint\n1x Bloodied Blueprint\n1x Vigo's Shroud\n",
+			"KillerNotes": "***Greenville Square Is The New Fallen Refuge Map***\n\nOfferings:\n\nKiller: 1x Cut Coin\n\nSurvivors:\n\n1x Torn Blueprint\n1x Annotated Blueprint\n1x Vigo's Shroud",
 			"IsDisabled": false,
 			"Map": [
 				"43",
 				"8",
-				"14",
-				"52",
-				"33"
+				"33",
+				"54",
+				"47"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				2
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"146",
-				"158",
-				"163",
-				"173",
-				"264",
-				"200",
-				"272"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"21",
-				"288",
-				"34",
-				"36",
-				"38",
-				"50",
 				"57",
-				"96",
-				"102",
-				"109",
-				"121",
-				"127",
-				"128"
+				"109"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -4911,9 +2442,7 @@
 				},
 				"Flashlight": {
 					"Addons": [
-						1,
 						2,
-						3,
 						4
 					]
 				},
@@ -4941,12 +2470,60 @@
 		},
 		{
 			"Name": "The Xenomorph",
-			"KillerNotes": "Offerings Are As Follows:\n\nKiller: Cut Coin\n\nSurvivor:\n\nAnnotated Blueprint\nBloodied Blueprint\nVigo's Shroud\nShroud Of Binding",
+			"KillerNotes": "",
 			"IsDisabled": true,
 			"Map": [
-				"43",
-				"5",
-				"22"
+				0
+			],
+			"BalanceTiers": [
+				0,
+				3
+			],
+			"SurvivorBalanceTiers": [
+				0,
+				3
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
+		},
+		{
+			"Name": "The Good Guy",
+			"KillerNotes": "",
+			"IsDisabled": true,
+			"Map": [
+				0
 			],
 			"BalanceTiers": [
 				0
@@ -4957,44 +2534,21 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"13",
-				"21",
-				"34",
-				"36",
-				"38",
-				"76",
-				"96",
-				"121",
-				"127",
-				"128"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [
-				658,
-				657,
-				655
-			],
-			"ItemWhitelist": [
-				0,
-				5
-			],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": [
-						1,
-						2,
-						3,
-						4
-					]
+					"Addons": []
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -5009,151 +2563,32 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [
-				0,
-				2
-			],
-			"KillerOfferings": [
-				5
-			]
-		},
-		{
-			"Name": "The Good Guy",
-			"KillerNotes": "",
-			"IsDisabled": true,
-			"Map": [
-				"11",
-				"20",
-				"33"
-			],
-			"BalanceTiers": [
-				0
-			],
-			"SurvivorBalanceTiers": [
-				0
-			],
-			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"159"
-			],
-			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"13",
-				"21",
-				"246",
-				"34",
-				"36",
-				"38",
-				"76",
-				"96",
-				"121",
-				"127",
-				"128"
-			],
-			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [],
-			"SurvivorWhitelistedComboPerks": [],
-			"KillerWhitelistedPerks": [],
-			"KillerWhitelistedComboPerks": [],
-			"AddonTiersBanned": [],
-			"IndividualAddonBans": [
-				678,
-				668,
-				674,
-				672,
-				671,
-				667,
-				662,
-				659
-			],
-			"ItemWhitelist": [
-				0,
-				5
-			],
-			"AddonWhitelist": {
-				"Firecracker": {
-					"Addons": []
-				},
-				"Flashlight": {
-					"Addons": [
-						1,
-						2,
-						3,
-						4
-					]
-				},
-				"Med-Kit": {
-					"Addons": []
-				},
-				"Toolbox": {
-					"Addons": []
-				},
-				"Key": {
-					"Addons": []
-				},
-				"Map": {
-					"Addons": []
-				}
-			},
-			"SurvivorOfferings": [
-				0,
-				2
-			],
-			"KillerOfferings": [
-				5
-			]
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
 		},
 		{
 			"Name": "The Unknown",
-			"KillerNotes": "Offerings Are As Follows:\n\nKiller: 1x Cut Coin\n\nSurvivors: \n1x Torn Blueprint\n1x Bloodied Blueprint\n1x Vigo's Shroud",
+			"KillerNotes": "***Greenville Square Is Fallen Refuge***\n\nOfferings:\n\n1x Torn Blueprint\n1x Annotated Blueprint\n1x Vigo's Shroud",
 			"IsDisabled": false,
 			"Map": [
 				"8",
 				"9",
 				"11",
 				"54",
-				"55"
+				"47"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				4
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"172",
-				"173",
-				"200",
-				"272",
-				"220"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"1",
-				"21",
-				"246",
-				"273",
-				"34",
-				"36",
-				"38",
-				"39",
-				"44",
-				"50",
-				"57",
-				"61",
-				"65",
-				"76",
-				"93",
-				"96",
-				"92",
-				"109",
-				"110",
-				"112",
-				"121",
-				"127",
-				"128"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -5161,9 +2596,12 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
+				697,
 				698,
+				696,
 				693,
-				688
+				688,
+				689
 			],
 			"ItemWhitelist": [
 				0,
@@ -5175,9 +2613,7 @@
 				},
 				"Flashlight": {
 					"Addons": [
-						1,
 						2,
-						3,
 						4
 					]
 				},
@@ -5205,12 +2641,10 @@
 		},
 		{
 			"Name": "The Lich",
-			"KillerNotes": "Offerings Are As Follows:\n\nKiller: Cut Coin\n\nSurvivor: Annotated Blueprint\n          Bloodied Blueprint\n          Vigo's Shroud\n          Shroud Of Binding\n",
+			"KillerNotes": "",
 			"IsDisabled": true,
 			"Map": [
-				"0",
-				"11",
-				"33"
+				0
 			],
 			"BalanceTiers": [
 				0
@@ -5221,53 +2655,21 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"13",
-				"21",
-				"246",
-				"34",
-				"36",
-				"38",
-				"44",
-				"57",
-				"61",
-				"65",
-				"76",
-				"96",
-				"92",
-				"109",
-				"112",
-				"121",
-				"127",
-				"128"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [
-				713,
-				704,
-				716,
-				718
-			],
-			"ItemWhitelist": [
-				0,
-				5
-			],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": [
-						1,
-						2,
-						3,
-						4
-					]
+					"Addons": []
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -5282,61 +2684,39 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [
-				0,
-				2
-			],
-			"KillerOfferings": [
-				5
-			]
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
 		},
 		{
 			"Name": "The Dark Lord",
-			"KillerNotes": "Offerings Are As Follows:\n\nKiller: 1x Cut Coin\n\nSurvivors: \n1x Torn Blueprint\n1x Bloodied Blueprint\n1x Vigo's Shroud\n",
+			"KillerNotes": "Offerings:\n\nKiller: 1x Cut Coin\n\nSurvivors:\n\n1x Torn Blueprint\n1x Annotated Blueprint\n1x Vigo's Shroud",
 			"IsDisabled": false,
 			"Map": [
+				"44",
+				"8",
 				"9",
 				"16",
-				"50",
-				"49",
-				"55"
+				"50"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				2
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"163",
-				"166",
-				"183",
-				"200",
-				"214",
-				"272",
-				"220"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"21",
-				"288",
 				"32",
-				"34",
 				"35",
-				"36",
-				"38",
-				"50",
 				"57",
 				"58",
 				"64",
 				"78",
-				"80",
-				"96",
-				"109",
-				"121",
-				"127",
-				"128"
+				"109"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -5360,9 +2740,7 @@
 				},
 				"Flashlight": {
 					"Addons": [
-						1,
 						2,
-						3,
 						4
 					]
 				},
@@ -5390,44 +2768,31 @@
 		},
 		{
 			"Name": "The Houndmaster",
-			"KillerNotes": "Offerings Are As Follows:\n\nKiller: 1x Cut Coin\n\nSurvivors: \n1x Torn Blueprint\n1x Bloodied Blueprint\n1x Vigo's Shroud",
+			"KillerNotes": "***Greenville Square Is The New Fallen Refuge Map***\n\n\nOfferings:\n\nKiller: 1x Cut Coin\n\nSurvivors:\n\n1x Torn Blueprint\n1x Annotated Blueprint\n1x Vigo's Shroud",
 			"IsDisabled": false,
 			"Map": [
 				"0",
 				"8",
 				"9",
-				"11",
-				"50"
+				"54",
+				"47"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				2
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"163"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"21",
-				"288",
-				"34",
-				"36",
-				"38",
 				"39",
-				"50",
 				"57",
 				"76",
-				"96",
-				"92",
-				"109",
-				"110",
-				"112",
-				"121",
-				"127",
-				"128"
+				"92"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -5438,9 +2803,9 @@
 			"IndividualAddonBans": [
 				758,
 				750,
-				747,
 				748,
 				751,
+				747,
 				757
 			],
 			"ItemWhitelist": [
@@ -5453,9 +2818,7 @@
 				},
 				"Flashlight": {
 					"Addons": [
-						1,
 						2,
-						3,
 						4
 					]
 				},
@@ -5483,7 +2846,7 @@
 		},
 		{
 			"Name": "The Ghoul",
-			"KillerNotes": "Offerings Are As Follows:\n\nKiller: 1x Cut Coin\n\nSurvivors: \n1x Torn Blueprint\n1x Bloodied Blueprint\n1x Vigo's Shroud\n",
+			"KillerNotes": "Offerings:\n\nKiller: 1x Cut Coin\n\nSurvivors:\n\n1x Torn Blueprint\n1x Annotated Blueprint\n2x Vigo's Shroud",
 			"IsDisabled": false,
 			"Map": [
 				"43",
@@ -5493,36 +2856,25 @@
 				"52"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				1
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				1
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"132",
-				"146",
-				"163",
-				"166",
-				"282",
-				"172",
-				"173",
-				"183",
-				"264",
-				"196",
-				"200",
-				"204",
-				"214",
-				"272",
-				"220"
+				"142",
+				"162",
+				"172"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"36",
 				"38",
-				"50",
 				"69",
-				"128"
+				"121"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -5540,8 +2892,9 @@
 				776
 			],
 			"ItemWhitelist": [
+				0,
 				5,
-				0
+				10
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -5549,14 +2902,15 @@
 				},
 				"Flashlight": {
 					"Addons": [
-						1,
 						2,
-						3,
 						4
 					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						2,
+						11
+					]
 				},
 				"Toolbox": {
 					"Addons": []
@@ -5579,52 +2933,27 @@
 		},
 		{
 			"Name": "The Animatronic",
-			"KillerNotes": "Offerings Are As Follows:\n\nKiller: 1x Cut Coin\n\nSurvivors: \n1x Torn Blueprint\n1x Bloodied Blueprint\n1x Vigo's Shroud",
+			"KillerNotes": "***Greenville Square Is Fallen Refuge***\n\nOfferings:\n\n1x Torn Blueprint\n1x Annotated Blueprint\n1x Vigo's Shroud\n\n***Indoor Maps Only Require Vigo's Shroud X1***",
 			"IsDisabled": false,
 			"Map": [
 				"8",
-				"11",
 				"20",
+				"32",
 				"54",
-				"55"
+				"47"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				3
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				3
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"163",
-				"166",
-				"173",
-				"200",
-				"272"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"21",
-				"288",
-				"34",
-				"36",
-				"38",
-				"39",
-				"50",
-				"57",
-				"65",
-				"69",
-				"76",
-				"80",
-				"96",
-				"92",
-				"109",
-				"110",
-				"112",
-				"121",
-				"127",
-				"128"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -5632,19 +2961,19 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				783,
-				789,
-				792,
-				793,
-				794,
 				796,
 				798,
-				797,
-				795
+				794,
+				793,
+				783,
+				792,
+				789,
+				788,
+				787
 			],
 			"ItemWhitelist": [
-				0,
-				5
+				5,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -5652,9 +2981,7 @@
 				},
 				"Flashlight": {
 					"Addons": [
-						1,
 						2,
-						3,
 						4
 					]
 				},
