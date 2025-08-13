@@ -1,6 +1,6 @@
 {
-	"Name": "Scars Don't Fade NB Shared Balance TIERS 3",
-	"Version": 1754529625,
+	"Name": "Scars Don't Fade NB Shared Balance TIERS 4",
+	"Version": 1755128647,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -440,7 +440,7 @@
 				"32",
 				"33",
 				"34",
-				"47"
+				"56"
 			],
 			"BalanceTiers": [
 				0,
@@ -587,7 +587,7 @@
 				"8",
 				"33",
 				"54",
-				"47"
+				"56"
 			],
 			"BalanceTiers": [
 				0,
@@ -761,7 +761,7 @@
 				"9",
 				"16",
 				"54",
-				"47"
+				"56"
 			],
 			"BalanceTiers": [
 				0,
@@ -835,7 +835,7 @@
 				"8",
 				"30",
 				"54",
-				"47"
+				"56"
 			],
 			"BalanceTiers": [
 				0,
@@ -959,7 +959,7 @@
 				"5",
 				"33",
 				"54",
-				"47"
+				"56"
 			],
 			"BalanceTiers": [
 				0,
@@ -1242,7 +1242,7 @@
 				"28",
 				"33",
 				"54",
-				"47"
+				"56"
 			],
 			"BalanceTiers": [
 				0,
@@ -1316,7 +1316,7 @@
 				"5",
 				"16",
 				"54",
-				"47"
+				"56"
 			],
 			"BalanceTiers": [
 				0,
@@ -1470,7 +1470,7 @@
 				"5",
 				"13",
 				"54",
-				"47"
+				"56"
 			],
 			"BalanceTiers": [
 				0,
@@ -1638,7 +1638,7 @@
 				"5",
 				"8",
 				"54",
-				"47"
+				"56"
 			],
 			"BalanceTiers": [
 				0,
@@ -1971,7 +1971,7 @@
 				"11",
 				"33",
 				"54",
-				"47"
+				"56"
 			],
 			"BalanceTiers": [
 				0,
@@ -2045,7 +2045,7 @@
 				"5",
 				"9",
 				"54",
-				"47"
+				"56"
 			],
 			"BalanceTiers": [
 				0,
@@ -2400,7 +2400,7 @@
 				"8",
 				"33",
 				"54",
-				"47"
+				"56"
 			],
 			"BalanceTiers": [
 				0,
@@ -2575,7 +2575,7 @@
 				"9",
 				"11",
 				"54",
-				"47"
+				"56"
 			],
 			"BalanceTiers": [
 				0,
@@ -2692,11 +2692,11 @@
 			"KillerNotes": "Offerings:\n\nKiller: 1x Cut Coin\n\nSurvivors:\n\n1x Torn Blueprint\n1x Annotated Blueprint\n1x Vigo's Shroud",
 			"IsDisabled": false,
 			"Map": [
-				"44",
 				"8",
 				"9",
 				"16",
-				"50"
+				"50",
+				"56"
 			],
 			"BalanceTiers": [
 				0,
@@ -2775,7 +2775,7 @@
 				"8",
 				"9",
 				"54",
-				"47"
+				"56"
 			],
 			"BalanceTiers": [
 				0,
@@ -2940,7 +2940,7 @@
 				"20",
 				"32",
 				"54",
-				"47"
+				"56"
 			],
 			"BalanceTiers": [
 				0,
